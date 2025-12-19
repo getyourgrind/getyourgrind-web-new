@@ -136,7 +136,8 @@ const App = () => {
           <div>
             <h2 className="text-[#8A7CFF] font-mono text-xs font-black tracking-[0.4em] mb-8 uppercase">The Protocol</h2>
             <h3 className="text-4xl md:text-7xl font-black uppercase leading-none mb-10 tracking-tighter">
-              {t.problem_title} <br/><span className="text-black/10 dark:text-white/10 italic">System > Motivation.</span>
+              {t.problem_title} <br/><span className="text-black/10 dark:text-white/10 italic">System &gt; Motivation.
+</span>
             </h3>
             <p className="text-lg md:text-xl text-black/40 dark:text-white/50 font-medium leading-relaxed">
               {t.problem_sub}
